@@ -1,1 +1,5 @@
-# ot_v2t1
+# Viikko 2 tehtävä 1
+
+Tätä repoa tarvitaan tehtävässä 1.
+
+Ks. Tehtävänanto ViLLEstä!
